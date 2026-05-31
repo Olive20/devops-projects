@@ -1,3 +1,4 @@
+Maybe rebase is good tho 
 # DevOps Projects
 
 ## Project 1 - Server Setup Automation
